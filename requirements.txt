@@ -1,0 +1,12 @@
+streamlit
+numpy
+faiss-cpu
+langchain-text-splitters
+sentence-transformers
+rank-bm25
+PyPDF2
+easyocr
+ollama
+torch
+transformers
+opencv-python-headless
